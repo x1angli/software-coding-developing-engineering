@@ -1,8 +1,18 @@
 This is a curated list of tutorials, references for software engineers. 
 
 # Roadmaps
+
+### Roadmap: Becoming a Web Developer  
 Roadmap to becoming a Web Developer in 2019
 https://github.com/kamranahmedse/developer-roadmap
+
+
+# Courses
+
+## Computer Science Courses
+### Awesome Courses
+A list of awesome university courses for learning Computer Science
+https://github.com/prakhar1989/awesome-courses
 
 # Tutorials
 
