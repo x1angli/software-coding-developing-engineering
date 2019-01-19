@@ -1,0 +1,63 @@
+# Created by .ignore support plugin
+# Simplified by x1ang.li
+
+### Python ###
+## Byte-compiled / optimized / DLL files ##
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Distribution / packaging ##
+.Python
+env/
+venv/
+build/
+dist/
+downloads/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.installed.cfg
+
+## PyBuilder ##
+target/
+
+
+### IDEs ###
+
+## Eclipse ##
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+
+## JetBrains ##
+*.iml
+.idea/
+
+
+### OS ###
+
+## Windows ##
+Thumbs.db
+Desktop.ini
+
+## OSX ##
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+#Thumbnails
+._*

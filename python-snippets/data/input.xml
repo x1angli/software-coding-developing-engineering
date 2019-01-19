@@ -1,0 +1,114 @@
+<NewDataSet>
+  <Table>
+    <name>Lianqi Jiacheng</name>
+    <adjusted_name>Lianqi Jiacheng</adjusted_name>
+    <address />
+    <listing_date>2013/01/01</listing_date>
+    <zone>Jiading Downtown</zone>
+    <ring>outer_ring</ring>
+    <type>condo</type>
+    <type_additional>condo</type_additional>
+    <total_area>28889.06</total_area>
+    <total_units>318</total_units>
+    <district>Jiading</district>
+    <facility>          </facility>
+    <preorder_licence>2012_0581</preorder_licence>
+    <preorder_project_licence>014862</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>Silu Yayuan</name>
+    <adjusted_name>Silu Yayuan</adjusted_name>
+    <address />
+    <listing_date>2013/01/02</listing_date>
+    <zone>Xinchang</zone>
+    <ring>outer_ring</ring>
+    <type>Other</type>
+    <type_additional>Other</type_additional>
+    <total_area>15268.06</total_area>
+    <total_units>339</total_units>
+    <district>Nanhui</district>
+    <facility>          </facility>
+    <preorder_licence>2012_273399</preorder_licence>
+    <preorder_project_licence>014869</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>Golden Crane</name>
+    <adjusted_name>Golden Crane</adjusted_name>
+    <address />
+    <listing_date>2013/01/04</listing_date>
+    <zone>RiverBridge</zone>
+    <ring>outer_ring</ring>
+    <type>facility</type>
+    <type_additional>facility</type_additional>
+    <total_area>108022.24</total_area>
+    <total_units>1478</total_units>
+    <district>Jiading</district>
+    <facility>commercial</facility>
+    <preorder_licence>2011_1270</preorder_licence>
+    <preorder_project_licence>013606</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>SkyCity</name>
+    <adjusted_name>SkyCity</adjusted_name>
+    <address />
+    <listing_date>2013/01/08</listing_date>
+    <zone>Park</zone>
+    <ring>inner_ring</ring>
+    <type>commercial</type>
+    <type_additional>commercial</type_additional>
+    <total_area>11615.91</total_area>
+    <total_units>3</total_units>
+    <district>Changning</district>
+    <facility>          </facility>
+    <preorder_licence>2012_012068</preorder_licence>
+    <preorder_project_licence>014878</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>Furong</name>
+    <adjusted_name>Furong</adjusted_name>
+    <address />
+    <listing_date>2013/01/08</listing_date>
+    <zone>Anting</zone>
+    <ring>outer_ring</ring>
+    <type>commercial</type>
+    <type_additional>commercial</type_additional>
+    <total_area>494.92</total_area>
+    <total_units>4</total_units>
+    <district>Jiading</district>
+    <facility></facility>
+    <preorder_licence>2006_003121</preorder_licence>
+    <preorder_project_licence>014876</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>Xin yuan 244-286</name>
+    <adjusted_name>Xin yuan 244-286</adjusted_name>
+    <address />
+    <listing_date>2013/01/08</listing_date>
+    <zone>Anting</zone>
+    <ring>outer_ring</ring>
+    <type>commercial</type>
+    <type_additional>commercial</type_additional>
+    <total_area>6388.64</total_area>
+    <total_units>10</total_units>
+    <district>Jiading</district>
+    <facility>          </facility>
+    <preorder_licence>2008_002972</preorder_licence>
+    <preorder_project_licence>014877</preorder_project_licence>
+  </Table>
+  <Table>
+    <name>ComicCity</name>
+    <adjusted_name>ComicCity</adjusted_name>
+    <address />
+    <listing_date>2013/01/08</listing_date>
+    <zone>RiverHouse</zone>
+    <ring>outer_ring</ring>
+    <type>condo</type>
+    <type_additional>condo</type_additional>
+    <total_area>34419.4</total_area>
+    <total_units>274</total_units>
+    <district>Minhang</district>
+    <facility></facility>
+    <preorder_licence>2012_0586</preorder_licence>
+    <preorder_project_licence>014882</preorder_project_licence>
+  </Table>
+</NewDataSet>
