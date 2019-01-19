@@ -1,8 +1,6 @@
-# py-utils
-
 Dear friends,
 
-This is an umbrella project that contains a bunch of Python sub-projects. 
+This is a git submodule/subrepo that contains a bunch of Python sub-projects. 
 
 Since Python is almost the full-stack language, we chose it in favor of other languages. Python is cross-platform and almost universally supported. Except for browser front-end, applications written in Python spans all the way from IoT (Internet of Things, such as wearable devices) to backend server applications, to big data solutions.   
 
