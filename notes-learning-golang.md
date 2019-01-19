@@ -24,6 +24,8 @@ func main() {
     fmt.Println(a, b)
 }
 ```
+Additional Reference: appending a slice  in Golang, by iCell, https://icell.io/how-golang-slice-append-works/
+
 
 ### Structure references
 It's tricky. The special prefix & returns a pointer to the struct value. But, To access the field X of a struct when we have the struct pointer p we could write (*p).X. However, that notation is cumbersome, so the language permits us instead to write just p.X, without the explicit dereference.
