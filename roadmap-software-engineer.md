@@ -15,6 +15,13 @@ https://github.com/prakhar1989/awesome-courses
 
 # Tutorials
 
+## Language Tutorials
+
+### Ruby
+#### Ruby in Twenty Minutes
+https://www.ruby-lang.org/en/documentation/quickstart/
+
+## Network related tutorials
 ### DNS
 
 https://powerdns.org/hello-dns/
