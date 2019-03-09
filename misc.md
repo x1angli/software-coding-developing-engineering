@@ -19,3 +19,10 @@ https://seongbrave.github.io/gckit/
 #### Spring Boot Examples
 Spring Boot 使用的各种示例，以最简单、最实用为标准
 * https://github.com/ityouknow/spring-boot-examples
+
+## Python
+#### A Whirlwind Tour of Python
+A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1
+"No Rights Reserved" CC0 license
+https://jakevdp.github.io/WhirlwindTourOfPython/
+https://github.com/jakevdp/WhirlwindTourOfPython
