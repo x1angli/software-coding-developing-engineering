@@ -1,4 +1,13 @@
-This article contains random, unorganized notes about Golang
+## Websites
+### Go 编程基础
+https://github.com/Unknwon/go-fundamental-programming
+
+#### The Way to Go (Go入门指南)
+https://sites.google.com/site/thewaytogo2012/
+https://github.com/Unknwon/the-way-to-go_ZH_CN
+
+## Notes
+random, unorganized notes about Golang
 
 ### Slices are like references to arrays
 Unlike Python, where slices are clones of the original arrays, Golang's slices are array references Changing the elements of a slice modifies the corresponding elements of its underlying array.
