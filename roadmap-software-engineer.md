@@ -52,6 +52,9 @@ The modern JS tutorial
 ### Docker
 * [Docker从入门到实践（中文版）](https://www.yuque.com/grasilife/docker)
 
+### Bash 
+* [Bash 脚本教程](https://wangdoc.com/bash/)
+
 # Blogs
 
 # Aggregated Streams / Sites
